@@ -5,6 +5,7 @@ Arquivo contem uma array com todos os IDs e coordenadas dos objetos de vegetaç�
 This file contains array with all models ID and coordinates of remaining vegetation of SA-MP. Basically, SAMP removes various objects of GTA SA (this objects stay in binary .ipl file in .img files), to increase perfomance in Multiplayer game. But, SAMP don't all vegetations, because if remove all, the gameplay as run uggly.
 
 
-###### Créditos / Credits
-pottus - SearchData original array
-Eu/Me - Extração apenas da vegetação / Extracted only vegetations
+**Credits** 
+
+Pottus - SearchData original array, [found here](http://http://forum.sa-mp.com/showthread.php?t=415397).
+Me - Extracted only vegetations.
