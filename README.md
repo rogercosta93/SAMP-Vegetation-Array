@@ -7,6 +7,6 @@ This file contains array with all models ID and coordinates of remaining vegetat
 
 **Credits** 
 
-Pottus - SearchData original array, [found here](www.forum.sa-mp.com/showthread.php?t=415397).
+Pottus - SearchData original array, [found here](http://www.forum.sa-mp.com/showthread.php?t=415397).
 
 Me - Extracted only vegetations.
